@@ -1,0 +1,22 @@
+{
+  "name": "controller",
+  "version": "16.15.1",
+  "description": "\"First Node JS Program\"",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayzinsoedev/Test-NodeJS-.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Kay Zin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayzinsoedev/Test-NodeJS-/issues"
+  },
+  "homepage": "https://github.com/kayzinsoedev/Test-NodeJS-#readme"
+}
